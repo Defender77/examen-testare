@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<com.testing.SerializeXML.Customer>
+    <firstName>John</firstName>
+    <lastName>Doe</lastName>
+    <dob>2021-03-09 06:43:09.15 UTC</dob>
+    <com.testing.SerializeXML.ContactDetails>
+        <mobile>212121</mobile>
+        <landline>46456</landline>
+    </com.testing.SerializeXML.ContactDetails>
+    <com.testing.SerializeXML.ContactDetails>
+        <mobile>5656</mobile>
+        <landline>46447474</landline>
+    </com.testing.SerializeXML.ContactDetails>
+</com.testing.SerializeXML.Customer>
+
+
+<!--        <?xml version='1.0' encoding='UTF-8'?>-->
+<customer>
+<fn>John</fn>
+<ln>Doe</ln>
+<dob>2021-03-09 06:46:08.470 UTC</dob>
+<contactDetailsList>
+    <com.testing.SerializeXML.ContactDetails>
+        <mobile>212121</mobile>
+        <landline>46456</landline>
+    </com.testing.SerializeXML.ContactDetails>
+    <com.testing.SerializeXML.ContactDetails>
+        <mobile>5656</mobile>
+        <landline>46447474</landline>
+    </com.testing.SerializeXML.ContactDetails>
+</contactDetailsList>
+</customer>
+
+<!--        <?xml version='1.0' encoding='UTF-8'?>-->
+<com.testing.SerializeXML.Customer>
+<firstName>John</firstName>
+<lastName>Doe</lastName>
+<dob>09-03-2021</dob>
+<contactDetailsList>
+    <com.testing.SerializeXML.ContactDetails>
+    <mobile>212121</mobile>
+        <landline>46456</landline>
+    </com.testing.SerializeXML.ContactDetails>
+    <com.testing.SerializeXML.ContactDetails>
+        <mobile>5656</mobile>
+        <landline>46447474</landline>
+    </com.testing.SerializeXML.ContactDetails>
+</contactDetailsList>
+</com.testing.SerializeXML.Customer>
+
+
+<!--        <?xml version='1.0' encoding='UTF-8'?>-->
+<com.testing.SerializeXML.Customer>
+<fn>John</fn>
+<lastName>Doe</lastName>
+<dob>09-03-2021</dob>
+<contactDetailsList>
+    <com.testing.SerializeXML.ContactDetails>
+        <mobile>212121</mobile>
+        <landline>46456</landline>
+    </com.testing.SerializeXML.ContactDetails>
+    <com.testing.SerializeXML.ContactDetails>
+        <mobile>5656</mobile>
+        <landline>46447474</landline>
+    </com.testing.SerializeXML.ContactDetails>
+</contactDetailsList>
+</com.testing.SerializeXML.Customer>

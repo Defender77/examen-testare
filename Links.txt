@@ -1,0 +1,8 @@
+Selenium
+http://www.automationtestinghub.com/selenium-chromedriver/
+http://www.automationtestinghub.com/selenium-3-0-launch-firefox-with-geckodriver/
+https://www.selenium.dev/
+https://www.toolsqa.com/selenium-tutorial/
+https://www.guru99.com/selenium-tutorial.html
+http://htmlelements.qatools.ru/
+https://www.guru99.com/implicit-explicit-waits-selenium.html

@@ -1,0 +1,59 @@
+<?xml version = "1.0"?>
+<root>
+    <class>
+        <student rollno = "393">
+            <firstname>dinkar</firstname>
+            <lastname>kad</lastname>
+            <nickname>dinkar</nickname>
+            <marks>85</marks>
+            <status>married</status>
+        </student>
+        <student rollno = "353">
+            <firstname>dinkar</firstname>
+            <lastname>kad</lastname>
+            <nickname>dinkar</nickname>
+            <marks>85</marks>
+            <status>married</status>
+        </student>
+        <student rollno = "553">
+            <firstname>dinkar</firstname>
+            <lastname>kad</lastname>
+            <nickname>dinkar</nickname>
+            <marks>85</marks>
+            <status>married</status>
+        </student>
+<!--    </class2>-->
+
+<!--    <class>-->
+        <student rollno = "493">
+            <firstname>Vaneet</firstname>
+            <lastname>Gupta</lastname>
+            <nickname>vinni</nickname>
+            <marks>95</marks>
+        </student>
+
+        <student rollno = "593">
+            <firstname>jasvir</firstname>
+            <lastname>singn</lastname>
+            <nickname>jazz</nickname>
+            <marks>90</marks>
+        </student>
+
+        <student rollno = "583">
+            <firstname>jasvir</firstname>
+            <lastname>singn</lastname>
+            <nickname>jazz</nickname>
+            <marks>90</marks>
+        </student>
+    </class>
+
+    <class2>
+        <student rollno = "555">
+            <firstname>dinkar</firstname>
+            <lastname>kad</lastname>
+            <nickname>dinkar</nickname>
+            <marks>85</marks>
+            <status>married</status>
+        </student>
+    </class2>
+</root>

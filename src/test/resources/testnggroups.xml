@@ -1,0 +1,33 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="TestAll">
+
+<!--    <test name="final">-->
+<!--        <groups>-->
+<!--            <run>-->
+<!--                <include name="database" />-->
+<!--            </run>-->
+<!--        </groups>-->
+
+<!--        <classes>-->
+<!--            <class name="TestNgGroups"></class>-->
+<!--        </classes>-->
+<!--    </test>-->
+
+    <!-- Run test method on group "selenium" only -->
+        <test name="selenium">
+
+            <groups>
+                <run>
+                    <include name="selenium-test" />
+                </run>
+            </groups>
+
+            <classes>
+<!--                <class name="TestSelenium" />-->
+                <class name="TestNgGroups" />
+            </classes>
+
+        </test>
+
+</suite>
